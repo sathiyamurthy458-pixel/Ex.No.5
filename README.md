@@ -40,10 +40,6 @@ Summary of findings with insights on how to structure prompts for optimal result
 <img width="978" height="669" alt="Screenshot 2025-10-21 230622" src="https://github.com/user-attachments/assets/8845fd2d-e99c-4425-8cf3-e937e32d6003" />
 
 
-
-<img width="1080" height="143" alt="Screenshot 2025-10-21 230657" src="https://github.com/user-attachments/assets/89f2d20c-e4f2-4eb2-9359-c71af6b021db" />
-
-
 <img width="1202" height="626" alt="Screenshot 2025-10-21 225917" src="https://github.com/user-attachments/assets/5a4ed7a4-f239-44fb-b51b-a75c3a1d0390" />
 
 <img width="1259" height="571" alt="Screenshot 2025-10-21 230709" src="https://github.com/user-attachments/assets/70103946-baf7-48f9-8412-d0d524144fff" />
@@ -59,9 +55,6 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 <img width="1245" height="467" alt="Screenshot 2025-10-21 230754" src="https://github.com/user-attachments/assets/16114f08-b56a-4c6c-bfc8-20a5cd855270" />
-
-
-<img width="1260" height="706" alt="Screenshot 2025-10-21 230804" src="https://github.com/user-attachments/assets/f01df480-17d2-446b-a091-572b4076dc64" />
 
 
 
