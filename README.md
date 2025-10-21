@@ -34,5 +34,50 @@ Summary of findings with insights on how to structure prompts for optimal result
 
 
 # OUTPUT
+<img width="1195" height="664" alt="Screenshot 2025-10-21 225843" src="https://github.com/user-attachments/assets/2c70dea3-8ede-48c6-88cd-a612834e4f2b" />
+
+
+<img width="1171" height="170" alt="Screenshot 2025-10-21 225859" src="https://github.com/user-attachments/assets/2be22cae-dd4d-43d5-88d6-91812086f45a" />
+
+
+<img width="1346" height="718" alt="Screenshot 2025-10-21 230123" src="https://github.com/user-attachments/assets/b04dca86-2634-4702-b4ca-3a46dcbdda7c" />
+
+
+<img width="978" height="669" alt="Screenshot 2025-10-21 230622" src="https://github.com/user-attachments/assets/8845fd2d-e99c-4425-8cf3-e937e32d6003" />
+
+
+
+<img width="1080" height="143" alt="Screenshot 2025-10-21 230657" src="https://github.com/user-attachments/assets/89f2d20c-e4f2-4eb2-9359-c71af6b021db" />
+
+
+
+<img width="1259" height="571" alt="Screenshot 2025-10-21 230709" src="https://github.com/user-attachments/assets/70103946-baf7-48f9-8412-d0d524144fff" />
+
+
+
+<img width="1264" height="504" alt="Screenshot 2025-10-21 230718" src="https://github.com/user-attachments/assets/6cc4c848-7a88-4370-a72d-be4d07b3628f" />
+
+
+
+<img width="1204" height="666" alt="Screenshot 2025-10-21 230736" src="https://github.com/user-attachments/assets/7314e321-c949-4da4-badf-622fd0130147" />
+
+
+
+<img width="1059" height="179" alt="Screenshot 2025-10-21 230746" src="https://github.com/user-attachments/assets/f567a876-a1e9-4f81-94de-7e98dbb4b6a7" />
+
+
+
+
+
+<img width="1245" height="467" alt="Screenshot 2025-10-21 230754" src="https://github.com/user-attachments/assets/16114f08-b56a-4c6c-bfc8-20a5cd855270" />
+
+
+<img width="1260" height="706" alt="Screenshot 2025-10-21 230804" src="https://github.com/user-attachments/assets/f01df480-17d2-446b-a091-572b4076dc64" />
+
+
+
+<img width="1141" height="372" alt="Screenshot 2025-10-21 230813" src="https://github.com/user-attachments/assets/382c9f90-2a22-41cd-b4b1-ef7b39dbcce9" />
+
+
 
 # RESULT: The prompt for the above said problem executed successfully
